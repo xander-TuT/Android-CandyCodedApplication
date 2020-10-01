@@ -11,6 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,10 +157,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1601119691409">
+    <state x="517" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1601544253012">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="517" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/53.27.1313.741@53.27.1313.741" timestamp="1601119691409" />
+    <state x="517" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/53.27.1313.741@53.27.1313.741" timestamp="1601544253012" />
     <state width="1267" height="175" key="GridCell.Tab.0.bottom" timestamp="1601120863917">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
